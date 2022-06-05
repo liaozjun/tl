@@ -1,1 +1,1 @@
-cordova+cubeui+
+cordova+cubeui+vuetifyjs+vue-dplayer
